@@ -19,26 +19,21 @@ Concepts covered :
 4) creating jobs for tester and qat
 
 5) job for merging
-My Completed parts of the task
-
 
 The repo created for this purpose: https://github.com/suyashg8/devopssample 
-
-
 Two branches were created namely master and dve1.
 
+1)The first job :"jobformaster" was made in order to auto update the files in /var/www/html when we push the repo in the master branch of devopssample in my windows OS.
 
-The first job :"jobformaster" was made in order to auto update the files in /var/www/html when we push the repo in the master branch of devopssample in my windows OS.
-
-the second job :"jobfordev1" was made in order to auto update the files in /var/www/html when we push the repo in the dev1 branch of devopssample in my windows OS.
+2) the second job :"jobfordev1" was made in order to auto update the files in /var/www/html when we push the repo in the dev1 branch of devopssample in my windows OS.
 
 The files are getting updated in the destination folder and can be accessed via public ip created by running the ./ngrok http 80 in terminal.
 
-Job 3 :jobforserver1
+3) Job 3 :jobforserver1
 
-jobfortester  :
+4) jobfortester  :
 
-CAT job for merge : for merging with master
+5) CAT job for merge : for merging with master
 
 
 
