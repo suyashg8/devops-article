@@ -32,11 +32,7 @@ Two branches were created namely master and dve1.
 
 The files are getting updated in the destination folder and can be accessed via public ip created by running the ./ngrok http 80 in terminal.
 
-3) Job 3 :jobforserver1
-
-4) jobfortester  :
-
-5) CAT job for merge : for merging with master
+further description better given in blogpost post in detail.
 
 
 
