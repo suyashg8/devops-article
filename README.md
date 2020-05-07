@@ -5,6 +5,9 @@ Name: Suyash Gupta
 
 E-Mail: suyashgupta.nov8@gmail.com
 
+You can also read this blog as it is better visually to review the work on blogspot
+https://devopstrainingtask1.blogspot.com/2020/05/devops-assignment-name-suyash-gupta-e.html
+
 
 For the task given by Vimal sir, I was able to complete the task.
 
