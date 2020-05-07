@@ -21,7 +21,7 @@ Concepts covered :
 
 4) creating jobs for tester and qat
 
-5) job for merging
+NOTE: the job of merging was not completed due to errors
 
 The repo created for this purpose: https://github.com/suyashg8/devopssample 
 Two branches were created namely master and dve1.
